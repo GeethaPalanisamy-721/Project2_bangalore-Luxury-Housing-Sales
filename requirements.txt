@@ -3,4 +3,4 @@ numpy
 pymysql
 python-dotenv
 matplotlib
-scikit-learn
+
